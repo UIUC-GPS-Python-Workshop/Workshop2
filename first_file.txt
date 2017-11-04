@@ -1,0 +1,7 @@
+This is the first file for this lesson!
+It's just plain text.
+Python can read this file all at once or line-by-line.
+You've printed the whole file with print(open_file.read()).
+To print one line from the file write print(open_file.read_line()).
+What happens if you open this file again and call open_file.readline() three times?
+Try it!
